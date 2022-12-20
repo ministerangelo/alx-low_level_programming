@@ -6,7 +6,6 @@
  * @a: to swap
  * @b: to swap
  */
-
 void swap_int(int *a, int *b);
 {
 	int m;
