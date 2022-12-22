@@ -1,7 +1,8 @@
 #include <unistd.h>
+#include "main.h"
 
 /**
- * _strcat - Write a function that concatenates two strings
+ * _strcat - concatenates two strings
  * @dest: copy from
  * @src: copy to
  * Return: pointer to dest
